@@ -27,21 +27,11 @@ Este proyecto utiliza **MediaPipe** para detectar figuras geométricas básicas 
    cd detecion-figuras-geometricas
    ```
 
-2. Crea un entorno virtual (opcional pero recomendado):
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # En Windows usa: venv\Scripts\activate
-   ```
-
-3. Instala las dependencias:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-   Si no tienes el archivo `requirements.txt`, instala las dependencias manualmente:
+2. Instala las dependencias:
    ```bash
    pip install mediapipe opencv-python numpy
    ```
+
 
 ## Ejecución
 
