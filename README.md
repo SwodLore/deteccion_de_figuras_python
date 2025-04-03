@@ -66,9 +66,9 @@ Se calcula la distancia entre estos puntos y el ángulo formado para determinar 
 
 Si deseas ver cómo se ven las imágenes generadas, puedes acceder a los siguientes enlaces:
 
-- ![Ejemplo Círculo](url_de_imagen_del_círculo)
-- ![Ejemplo Triángulo](url_de_imagen_del_triángulo)
-- ![Ejemplo Rectángulo](url_de_imagen_del_rectángulo)
+- ![Ejemplo Círculo](./img/circulo.png)
+- ![Ejemplo Triángulo](./img/triangulo.png)
+- ![Ejemplo Rectángulo](./img/rectangulo.png)
 
 ## Contribuciones
 
