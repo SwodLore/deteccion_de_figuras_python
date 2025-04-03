@@ -84,10 +84,3 @@ Si deseas ver cómo se ven las imágenes generadas, puedes acceder a los siguien
 
 Si deseas mejorar este proyecto, ¡estaré encantado de recibir tus contribuciones! Si encuentras errores o mejoras, abre un **Issue** o envía un **Pull Request**.
 
-## Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-```
-
-### Explicación breve de la detección de figuras geométricas:
-La **detección de figuras geométricas** se basa
